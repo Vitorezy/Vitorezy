@@ -14,7 +14,8 @@
 <img height='200em' src='https://github-readme-stats.vercel.app/api?username=vitorezy&show_icons=true&theme=radical'/>  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorezy&langs_count=3&theme=radical'/>
 </div> 
     <hr>
- <picture> 
-  <source srcset="https://raw.githubusercontent.com/vitorezy/vitorezy/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorezy/vitorezy/output/github-contribution-grid-snake-dark.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
 </picture>
